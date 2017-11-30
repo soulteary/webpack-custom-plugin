@@ -12,7 +12,7 @@ let webpackBaseDir = path.resolve(__dirname, '../../webpack');
 
 const hijackPathList = [
   {
-    src: path.resolve(__dirname, 'webpack/lib/MainTemplate'),
+    src: path.resolve(__dirname, 'webpack/lib/MainTemplate.js'),
     dist: path.resolve(webpackBaseDir, 'lib/MainTemplate.js'),
     md5: '1D7DF7D74D780B8E9DE9355FB255C18E',
     ver: '3.8.1',
