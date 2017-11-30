@@ -1,6 +1,6 @@
 {
   "name": "webpack-custom-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "extend webpack api, give you more features.",
   "bin": {
     "path-webpack": "patch/index.js"
