@@ -15,6 +15,6 @@
   "main": "patch/index.js",
   "dependencies": {
     "story-fs": "0.0.10",
-    "webpack": "^3.8.1"
+    "webpack": "^4.0.0"
   }
 }
